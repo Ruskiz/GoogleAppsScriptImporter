@@ -1,11 +1,11 @@
 Google Apps Script Exporter/Importer
 =====================================
 
-# About
+## About
 - Exporter: Export Google Apps Script information into local.
 - Importer: Import local Google Apps Script into Google server(sync).
 
-# Usage
+## Usage
 
 ```sh
 # Exporter
